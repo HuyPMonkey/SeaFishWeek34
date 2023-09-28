@@ -1,0 +1,90 @@
+
+skeleton_hdr.png
+size: 1611,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bong_bong
+  rotate: false
+  xy: 1191, 58
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+Ca_1
+  rotate: false
+  xy: 486, 28
+  size: 241, 191
+  orig: 241, 191
+  offset: 0, 0
+  index: -1
+Ca_2
+  rotate: false
+  xy: 963, 2
+  size: 226, 223
+  orig: 226, 223
+  offset: 0, 0
+  index: -1
+Ca_5
+  rotate: false
+  xy: 729, 17
+  size: 232, 202
+  orig: 232, 202
+  offset: 0, 0
+  index: -1
+Ca_8
+  rotate: false
+  xy: 1451, 206
+  size: 155, 140
+  orig: 155, 140
+  offset: 0, 0
+  index: -1
+Day dai
+  rotate: true
+  xy: 2, 348
+  size: 25, 1607
+  orig: 25, 1607
+  offset: 0, 0
+  index: -1
+Moc 1
+  rotate: false
+  xy: 2, 22
+  size: 240, 324
+  orig: 240, 324
+  offset: 0, 0
+  index: -1
+Moc 2
+  rotate: false
+  xy: 244, 22
+  size: 240, 324
+  orig: 240, 324
+  offset: 0, 0
+  index: -1
+Rong bien_1
+  rotate: true
+  xy: 863, 227
+  size: 119, 288
+  orig: 119, 288
+  offset: 0, 0
+  index: -1
+Rong bien_2
+  rotate: true
+  xy: 486, 221
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+Rong bien_3
+  rotate: true
+  xy: 1153, 240
+  size: 106, 287
+  orig: 106, 287
+  offset: 0, 0
+  index: -1
+Rong bien_4
+  rotate: false
+  xy: 1191, 133
+  size: 258, 105
+  orig: 258, 105
+  offset: 0, 0
+  index: -1
