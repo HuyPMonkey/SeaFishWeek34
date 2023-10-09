@@ -58,13 +58,19 @@
     <Analyzer Include="D:\Unity  Editor\2022.3.6f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\MoveToTarget.cs" />
+    <Compile Include="Assets\Scripts\Scale Game\Zoom2.cs" />
     <Compile Include="Assets\Scripts\HookController.cs" />
     <Compile Include="Assets\Scripts\ParralaxNgang.cs" />
+    <Compile Include="Assets\Scripts\ScaleToFitScreen.cs" />
+    <Compile Include="Assets\Scripts\Zoom.cs" />
     <Compile Include="Assets\Scripts\MoveBoat.cs" />
     <Compile Include="Assets\Scripts\ParallaxDoc.cs" />
-    <Compile Include="Assets\Scripts\ToyController.cs" />
+    <Compile Include="Assets\Scripts\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\Scale Game\AnchorGameObject.cs" />
+    <Compile Include="Assets\Scripts\Sound.cs" />
     <Compile Include="Assets\Scripts\MoveCamera.cs" />
-    <Compile Include="Assets\Scripts\HookPickItems.cs" />
+    <Compile Include="Assets\Scripts\Scale Game\CameraViewportHandler.cs" />
     <Compile Include="Assets\Scripts\FishMovement.cs" />
   </ItemGroup>
   <ItemGroup>
